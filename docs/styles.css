@@ -210,6 +210,10 @@ img {
     font-size: 0.6em;
 }
 
+.authors sup i {
+    margin-left: 4px;
+}
+
 .affiliation-line {
     display: flex;
     justify-content: center;
